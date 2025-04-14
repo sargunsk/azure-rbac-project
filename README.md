@@ -28,7 +28,6 @@ Add screenshots here:
 - Role Assignment
 - User Profile
 - Storage Account IAM view
-- Optional: denied access behavior
 
 ## 🧪 Outcome
 Successfully simulated RBAC using different Azure roles and scopes. Verified permissions and tested inheritance across storage-level and resource group-level assignments.
